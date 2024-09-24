@@ -4,6 +4,9 @@ This repository contains the implementation of a task assigned as part of the Co
 
 Link for finetuned model [Finetune Model](https://drive.google.com/file/d/1PYHIIyJ_BZ8DyBIv--zWoXm3qBCesOXg/view?usp=drive_link)
 
+> **_NOTE:_** **All experiments are carried out in colab Notebook.** Data Preparation was carried out on local machine then pushed to google drive. Model Training and Evaluation were performed in Google Colab Notebook with T4 GPU as Runtime 
+
+ref : [colab notebook](Notebook\VisionLab_Assignment_pedestrian_detection.ipynb)
 ---
 
 ## Table of Contents
@@ -236,6 +239,6 @@ The metrics show a clear improvement in the model's performance after the finetu
 
 ---
 
-> **_NOTE:_** Data Preparation was carried out on local machine then pushed to google drive. Model Training and Evaluation were performed in Google Colab Notebook with T4 GPU as Runtime 
+
 
 
