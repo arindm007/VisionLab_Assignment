@@ -12,13 +12,13 @@ ref : [colab notebook](Notebook/VisionLab_Assignment_pedestrian_detection.ipynb)
 ## Table of Contents
 
 - [Project Overview](#project-overview)
+- [Dataset Visualization](#dataset-visualization)
 - [Dataset Preparation](#dataset-preparation)
 - [Repository Setup](#repository-setup)
 - [Evaluation](#evaluation)
 - [Fine-tuning](#fine-tuning)
 - [Results](#results)
-- [Steps to Recreate](#steps-to-recreate)
-- [Report](#report)
+- [Report](Report_Pedestrian_Detection_using_DINO_Object_Detection_Model.pdf)
 
 ---
 
