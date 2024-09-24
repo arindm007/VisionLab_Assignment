@@ -6,7 +6,7 @@ Link for finetuned model [Finetune Model](https://drive.google.com/file/d/1PYHII
 
 > **_NOTE:_** **All experiments are carried out in colab Notebook.** Data Preparation was carried out on local machine then pushed to google drive. Model Training and Evaluation were performed in Google Colab Notebook with T4 GPU as Runtime 
 
-ref : [colab notebook](Notebook\VisionLab_Assignment_pedestrian_detection.ipynb)
+ref : [colab notebook](Notebook/VisionLab_Assignment_pedestrian_detection.ipynb)
 ---
 
 ## Table of Contents
