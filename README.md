@@ -128,6 +128,15 @@ custom_dataset/
 ```
 4. Report the bounding box Average Precision (AP) values.
 
+Some of the visiualization of pre_trained model's prediction on validation data
+<img src="pre_trained_inf_1.png">
+
+---
+<img src="pre_trained_inf_2.png">
+
+---
+<img src="pre_trained_inf_3.png">
+
 > **_NOTE:_** Encountered some errors..resolved by
 
 > TypeError: FormatCode() got an unexpected keyword argument 'verify'
@@ -139,6 +148,8 @@ custom_dataset/
 ```sh
 !pip install "numpy<1.24"
 ```
+
+
 ---
 
 ## Fine-tuning
@@ -154,6 +165,13 @@ custom_dataset/
 
 Link for finetuned model [Finetune Model](https://drive.google.com/file/d/1PYHIIyJ_BZ8DyBIv--zWoXm3qBCesOXg/view?usp=drive_link)
 
+<img src="finetuned_p1.png">
+
+---
+<img src="finetuned_p2.png">
+
+---
+<img src="finetuned_p3.png">
 ---
 
 ## Results
