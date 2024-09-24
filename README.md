@@ -2,6 +2,8 @@
 
 This repository contains the implementation of a task assigned as part of the Computer Vision and Machine Learning Internship at the **Vision and Graphics Lab, Department of CSE, IIT Delhi**. The task involves training and fine-tuning the DINO object detection model on a pedestrian dataset collected within the IIT Delhi campus.
 
+Link for finetuned model [Finetune Model](https://drive.google.com/file/d/1PYHIIyJ_BZ8DyBIv--zWoXm3qBCesOXg/view?usp=drive_link)
+
 ---
 
 ## Table of Contents
@@ -149,6 +151,8 @@ custom_dataset/
 --pretrain_model_path /content/checkpoint0011_4scale.pth
 ```
 2. After fine-tuning, evaluate the model again on the validation set.
+
+Link for finetuned model [Finetune Model](https://drive.google.com/file/d/1PYHIIyJ_BZ8DyBIv--zWoXm3qBCesOXg/view?usp=drive_link)
 
 ---
 
